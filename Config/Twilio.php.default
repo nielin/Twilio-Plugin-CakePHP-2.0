@@ -1,7 +1,0 @@
-<?php
-$config = array(
-  	'Twilio' => array(
-  		'AccountSid' => 'YOUR_APP_ID',
-  		'AuthToken' => 'YOUR_API_KEY',
-  		)
-  	);
